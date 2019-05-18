@@ -1,0 +1,12 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background: #aaa;
+}
+
+.container {
+	margin: 0 auto;
+	width: 800px;
+}
